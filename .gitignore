@@ -1,3 +1,5 @@
-Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm
-Library/Bee/artifacts/WebGL//il2cppOutput/build/
-Library/PackageCache/com.unity.burst@59eb6f11d242
+Library/Bee/artifacts/WebGL/
+#Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm
+#Library/Bee/artifacts/WebGL/il2cppOutput/build/
+#Library/PackageCache/com.unity.burst@59eb6f11d242
+Library/PackageCache/
